@@ -71,12 +71,29 @@ https://github.com/mayukataoka/ww/blob/master/question_three.py (python)
 ### Output
 
 ```
-(venv) MAYUs-MacBook-Pro:ww mayukataoka$ python question_three.py 499
-995
-(venv) MAYUs-MacBook-Pro:ww mayukataoka$ python question_three.py 0
-3
-(venv) MAYUs-MacBook-Pro:ww mayukataoka$ python question_three.py 100
-226
+(venv) MAYUs-MacBook-Pro:ww mayukataoka$ pytest question_two_test.py -s
+========================================================================================================== test session starts ===========================================================================================================
+platform darwin -- Python 3.7.1, pytest-4.0.2, py-1.7.0, pluggy-0.8.0
+rootdir: /Users/mayukataoka/PycharmProjects/ww, inifile:
+collected 1 item                                                                                                                                                                                                                         
+
+question_two_test.py WW Studio Flatiron
+
+0.49 mi.
+
+On mon
+Name:DANA F.  Total: 1 times
+Name:LISA S.  Total: 2 times
+On tue
+Name:LAUREN C.  Total: 2 times
+Name:ARANSAS S.  Total: 2 times
+On wed
+Name:RICARDO M.  Total: 1 times
+Name:DANA F.  Total: 1 times
+Name:KENDRA V.  Total: 2 times
+.
+
+======================================================================================================= 1 passed in 18.00 seconds ========================================================================================================
 
 ```
 
