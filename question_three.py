@@ -1,4 +1,5 @@
 import random
+import sys
 
 
 def get_rand_num(n):
@@ -7,4 +8,4 @@ def get_rand_num(n):
     return list1[n]
 
 
-print(get_rand_num(12))
+print(get_rand_num(int(str(sys.argv[1]))))
