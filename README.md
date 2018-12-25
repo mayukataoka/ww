@@ -26,6 +26,10 @@ Process finished with exit code 0
 ## Question 2 
 ### Script
 https://github.com/mayukataoka/ww/blob/master/question_two_test.py (Python + Pytest)
+https://github.com/mayukataoka/ww/blob/master/pages/StudioSchedulePage.py
+https://github.com/mayukataoka/ww/blob/master/pages/Locators.py
+https://github.com/mayukataoka/ww/blob/master/pages/HeaderPage.py
+https://github.com/mayukataoka/ww/blob/master/pages/FindAMeetingPage.py
 
 ### Output
 
