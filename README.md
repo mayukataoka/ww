@@ -68,6 +68,12 @@ Process finished with exit code 0
 ### Script
 https://github.com/mayukataoka/ww/blob/master/question_three.py (python)
 
+```
+    schedule.get_schedule_summary('Mon')
+    schedule.get_schedule_summary('Tue')
+    schedule.get_schedule_summary('Wed')
+```
+
 ### Output
 
 ```
