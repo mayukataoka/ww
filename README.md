@@ -70,10 +70,13 @@ https://github.com/mayukataoka/ww/blob/master/question_three.py (python)
 ### Output
 
 ```
-/Users/mayukataoka/PycharmProjects/ww/venv/bin/python /Users/mayukataoka/PycharmProjects/ww/question_three.py
-30
+(venv) MAYUs-MacBook-Pro:ww mayukataoka$ python question_three.py 499
+995
+(venv) MAYUs-MacBook-Pro:ww mayukataoka$ python question_three.py 0
+3
+(venv) MAYUs-MacBook-Pro:ww mayukataoka$ python question_three.py 100
+226
 
-Process finished with exit code 0
 ```
 
 Please let me know if you have any questions. 
