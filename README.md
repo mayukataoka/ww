@@ -1,6 +1,12 @@
 
 
-## Question 1 output
+## Question 1 
+
+### Script
+https://github.com/mayukataoka/ww/blob/master/question_one.py (Python)
+
+### Output
+
 ```
 /Users/mayukataoka/PycharmProjects/ww/venv/bin/python /Users/mayukataoka/PycharmProjects/ww/question_one.py
 Apple
@@ -17,7 +23,12 @@ a fruit
 Process finished with exit code 0
 ```
 
-## Question 2 output
+## Question 2 
+### Script
+https://github.com/mayukataoka/ww/blob/master/question_two_test.py (Python + Pytest)
+
+### Output
+
 ```
 Testing started at 10:56 ...
 /Users/mayukataoka/PycharmProjects/ww/venv/bin/python "/Applications/PyCharm CE.app/Contents/helpers/pycharm/_jb_pytest_runner.py" --path /Users/mayukataoka/PycharmProjects/ww/question_two_test.py
@@ -48,7 +59,12 @@ Process finished with exit code 0
 
 ```
 
-## Question 3 output
+## Question 3
+### Script
+https://github.com/mayukataoka/ww/blob/master/question_three.py (python)
+
+### Output
+
 ```
 /Users/mayukataoka/PycharmProjects/ww/venv/bin/python /Users/mayukataoka/PycharmProjects/ww/question_three.py
 30
