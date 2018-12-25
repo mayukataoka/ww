@@ -70,6 +70,8 @@ Process finished with exit code 0
 
 ```
 
+![Alt text](schedule_table.png?raw=true)
+
 ## Question 3
 ### Script
 https://github.com/mayukataoka/ww/blob/master/question_three.py (python)
@@ -93,6 +95,7 @@ https://github.com/mayukataoka/ww/blob/master/question_three.py (python)
 210
 
 ```
+
 
 Please let me know if you have any questions. 
 Thank you,
