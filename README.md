@@ -85,6 +85,13 @@ https://github.com/mayukataoka/ww/blob/master/question_three.py (python)
 (venv) MAYUs-MacBook-Pro:ww mayukataoka$ python question_three.py 100
 222
 
+(venv) MAYUs-MacBook-Pro:ww mayukataoka$ python question_three.py 499
+999
+(venv) MAYUs-MacBook-Pro:ww mayukataoka$ python question_three.py 0
+1
+(venv) MAYUs-MacBook-Pro:ww mayukataoka$ python question_three.py 100
+210
+
 ```
 
 Please let me know if you have any questions. 
