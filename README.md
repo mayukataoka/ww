@@ -8,7 +8,9 @@ https://github.com/mayukataoka/ww/blob/master/question_one.py (Python)
 ### Output
 
 ```
-/Users/mayukataoka/PycharmProjects/ww/venv/bin/python /Users/mayukataoka/PycharmProjects/ww/question_one.py
+(venv) MAYUs-MacBook-Pro:ww mayukataoka$ python question_one.py 
+An input file ./dict exists.
+
 Apple
 a fruit
 a tech firm
@@ -20,7 +22,6 @@ contains rows and columns when used in context of computers
 Orange
 a fruit
 
-Process finished with exit code 0
 ```
 
 ## Question 2 
